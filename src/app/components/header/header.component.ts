@@ -26,7 +26,7 @@ export class HeaderComponent implements OnInit, OnDestroy {
       if (this.themeService.checkTheme(value) === Mode.LIGHT) {
         this.logoName = 'logo';
       } else {
-        this.logoName = 'logo-white';
+        this.logoName = 'logo-younix';
       }
     })
   }
