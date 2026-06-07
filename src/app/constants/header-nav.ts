@@ -33,8 +33,8 @@ export const navItems: NavItem[] = [
     activeClassName: 'active'
   },
   {
-    title: 'Portfolio',
-    link: 'portfolio',
+    title: 'Projects',
+    link: 'projects',
     className: 'link',
     activeClassName: 'active'
   },
